@@ -31,4 +31,4 @@ example-reformatter*
 run*
 stamp-h1
 test-*
-!config/config.h.in
+!config.h.in
